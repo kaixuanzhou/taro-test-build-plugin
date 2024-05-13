@@ -1,0 +1,1 @@
+{"pages":["pages/index/index"],"window":{"backgroundTextStyle":"light","navigationBarBackgroundColor":"#fff","navigationBarTitleText":"WeChat","navigationBarTextStyle":"black"},"plugins":{"myPlugin":{"version":"dev","provider":"wxa9abf43f10a7bdb0","genericsImplementation":{"list":{"mp-comp":"component/comp"}},"export":"my-export.js"}}}
